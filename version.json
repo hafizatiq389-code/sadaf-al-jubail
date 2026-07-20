@@ -1,7 +1,7 @@
 {
-    "version": "2.2",
-    "release_date": "2026-07-19",
-    "download_url": "https://github.com/hafizatiq389-code/sadaf-al-jubail/releases/latest/download/SadafAlJubail_Setup_v2.2.exe",
-    "release_notes": "- Dashboard layout fixed\n- UI improvements\n- Auto Update tested",
+    "version": "3.0",
+    "release_date": "2026-07-20",
+    "download_url": "https://github.com/hafizatiq389-code/sadaf-al-jubail/releases/latest/download/SadafAlJubail_Setup_v3.0.exe",
+    "release_notes": "🎉 MAJOR UPDATE v3.0:\n- Cloud Sync (Firebase)\n- Multi-PC support\n- New Modern UI\n- Company logo added\n- Google Drive backup ready",
     "mandatory": false
 }
